@@ -6,6 +6,97 @@
       "gender": "Male",
       "color": "Blanco y marrón",
       "owner": "Julieta",
-      "phone": "584212"
+      "phone": "584212",
+      "image": "https://images.unsplash.com/photo-1552995530-cf6043202fd0?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1000&q=80"
+    },
+    {
+      "name": "Pantera",
+      "age": "2 años",
+      "species": "Felino",
+      "gender": "Male",
+      "color": "Negro",
+      "owner": "Carlos",
+      "phone": "123456",
+      "image": "https://th.bing.com/th/id/R.1fea139dd8445dbaa2ee0aab9a55198b?rik=HrQajIGTDUkF6g&pid=ImgRaw&r=0"
+    },
+    {
+      "name": "Rocky",
+      "age": "4 años",
+      "species": "Canino",
+      "gender": "Male",
+      "color": "Gris",
+      "owner": "María",
+      "phone": "987654",
+      "image": "https://i.pinimg.com/originals/46/94/9c/46949cedc4f14a5be3a96eb8213c0b33.jpg"
+    },
+    {
+      "name": "Luna",
+      "age": "11 años",
+      "species": "Felino",
+      "gender": "Female",
+      "color": "Blanco",
+      "owner": "Sofía",
+      "phone": "456789",
+      "image": "https://th.bing.com/th/id/OIP.SY7sbJyNbx0KjNvf3uayvwHaHa?rs=1&pid=ImgDetMain"
+    },
+    {
+      "name": "Pelusa",
+      "age": "1 año",
+      "species": "Roedor",
+      "gender": "Female",
+      "color": "Marrón claro",
+      "owner": "Alejandro",
+      "phone": "112233",
+      "image": "https://th.bing.com/th/id/R.b2f33461d0f7395528a5b05aa0ceb380?rik=3WY44nSCws6Ujw&riu=http%3a%2f%2fmoy-homyachok.ru%2fwp-content%2fuploads%2f2017%2f03%2fzolotistiy.jpg&ehk=mEKnwlRgy1wPphCCdC8jgOfBFGavYvHrXvOSQgp7EWI%3d&risl=&pid=ImgRaw&r=0"
+    },
+    {
+      "name": "Princesa",
+      "age": "4 meses",
+      "species": "Canino",
+      "gender": "Female",
+      "color": "Negro y marrón",
+      "owner": "Lucía",
+      "phone": "334455",
+      "image": "https://pet-uploads.adoptapet.com/6/4/2/647250031.jpg"
+    },
+    {
+      "name": "Coco",
+      "age": "2 años",
+      "species": "Ave",
+      "gender": "Male",
+      "color": "Verde",
+      "owner": "José",
+      "phone": "778899",
+      "image": "https://th.bing.com/th/id/OIP.-Oe0Ta-DHurPPAVCQvOR3gHaHi?rs=1&pid=ImgDetMain"
+    },
+    {
+      "name": "Bella",
+      "age": "5 años",
+      "species": "Felino",
+      "gender": "Female",
+      "color": "Gris",
+      "owner": "Claudia",
+      "phone": "556677",
+      "image": "https://petpress.net/wp-content/uploads/2020/03/cat-5-20.jpg"
+    },
+    {
+      "name": "Toby",
+      "age": "7 años",
+      "species": "Canino",
+      "gender": "Male",
+      "color": "Dorado",
+      "owner": "Andrés",
+      "phone": "998877",
+      "image": "https://th.bing.com/th/id/R.9493dc25f204e6307b1ae6aef846633d?rik=sLE2YtfSjLOr7A&riu=http%3a%2f%2fwww.101dogbreeds.com%2fwp-content%2fuploads%2f2015%2f07%2fGoldador.jpg&ehk=QNZZIGU%2biMfNhbAC7Q0OKgnJ90aczoXNOwcTswCEDjk%3d&risl=&pid=ImgRaw&r=0"
+    },
+    {
+      "name": "Chispas",
+      "age": "4 años",
+      "species": "Reptil",
+      "gender": "Female",
+      "color": "Verde oscuro",
+      "owner": "Gabriela",
+      "phone": "445566",
+      "image": "https://th.bing.com/th/id/OIP.IeH99ReqV6SAxjCiZ7U-fAHaEF?w=900&h=497&rs=1&pid=ImgDetMain"
     }
-  ]
+  ]  
